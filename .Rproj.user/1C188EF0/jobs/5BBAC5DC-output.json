@@ -1,0 +1,4 @@
+[1,"==> quarto preview Shinylive-remo.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: Shinylive-remo.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Shinylive-remo\n  grid:\n    body-width: 1000px\n  resources: shinylive-sw.js\n  \n"]
+[1,"Output created: Shinylive-remo.html\n\nWatching files for changes\nBrowse at http://localhost:5556/Shinylive-remo.html\n"]
+[1,"  /app_yvbjlsavpu84wdcka1vb/bootstrap-5.3.1/bootstrap.min.css (404: Not Found)\n"]
